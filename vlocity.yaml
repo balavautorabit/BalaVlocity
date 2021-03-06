@@ -1,0 +1,22 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- AttributeAssignmentRule/AttributeAssignmentRule__ca0L6g000000rnsl
+- AttributeAssignmentRule/SC2Limit
+- AttributeCategory/AcupOffiProf
+- AttributeCategory/AcupOutpInst
+- CalculationMatrix/AttributePricingMatrix
+- CalculationMatrix/IndividualBaseRates
+- CalculationProcedure/IndividualPricing
+- CalculationProcedure/LargeGroupRating
+- DataRaptor/ANA_AccountLookupExtract
+- DataRaptor/ANA_AddFixedChildPrograms
+- DocumentClause/ACCESSHEALTH
+- DocumentTemplate/Employer Contract Midsize Group
+- IntegrationProcedure/ANA Library_Medical
+- IntegrationProcedure/CAQH_Simulation
+- OmniScript/ANA Library_CDHP_English
+- OmniScript/ANA Library_CP-AddServiceProvider_English
+maxDepth: -1
+autoUpdateSettings: false
+separateMatrixVersions: false
+CompileOnBuild: false
