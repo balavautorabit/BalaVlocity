@@ -1,0 +1,10 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- AttributeAssignmentRule/AttributeAssignmentRule__ca0L6g000000rnsl
+- AttributeAssignmentRule/SC2Limit
+- AttributeCategory/ASO
+- CalculationMatrix/AttributePricingMatrix
+maxDepth: -1
+autoUpdateSettings: false
+separateMatrixVersions: false
+CompileOnBuild: false
