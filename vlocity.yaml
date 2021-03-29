@@ -16,7 +16,7 @@ manifest:
 - IntegrationProcedure/CAQH_Simulation
 - OmniScript/ANA Library_CDHP_English
 - OmniScript/ANA Library_CP-AddServiceProvider_English
-maxDepth: -1
-autoUpdateSettings: false
-separateMatrixVersions: false
+maxDepth: 0
+autoUpdateSettings: true
+separateMatrixVersions: true
 CompileOnBuild: false
